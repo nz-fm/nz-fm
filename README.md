@@ -19,7 +19,7 @@ If you would like to know more about my background, please check my <img src="ht
 -->
 ### 🔒 Note on Research Code
 
-Most of the code developed during my PhD cannot be publicly shared due to confidentiality constraints. However, I am working on releasing public versions where no sensitive information is shown!
+Most of the code developed during my PhD. research cannot be publicly shared due to confidentiality constraints. However, I am working on releasing public versions where no sensitive information is shown!
 
 In the meantime, I would like to share the following projects that reflect some of my implementation skills.
 
