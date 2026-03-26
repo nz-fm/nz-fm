@@ -6,7 +6,7 @@ I am currently transitioning from academia to industry, where I aim to apply my 
 
 If you would like to know more about my background, please check my <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" /> [LinkedIn](https://www.linkedin.com/in/nazareno-faillace-mullen/)  !
 
----
+
 <!--
 ## 🧠 Areas of Expertise
 
@@ -23,7 +23,7 @@ Most of the code developed during my PhD cannot be publicly shared due to confid
 
 In the meantime, I would like to share the following projects that reflect some of my implementation skills.
 
----
+
 
 ### 🚀 Featured Projects
 
