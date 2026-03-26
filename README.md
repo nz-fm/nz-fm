@@ -4,7 +4,7 @@ I am a recent PhD in Mathematics specializing in **Operations Research**, with a
 
 I am currently transitioning from academia to industry, where I aim to apply my experience in optimization techniques and data science to real-world decision-making problems such as logistics, scheduling, and resource allocation.
 
-If you would like to know more about my background, please check my ![linkedin](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.freepik.com%2Ficons%2Flinkedin&ved=0CBYQjRxqFwoTCOjK0ZDxvZMDFQAAAAAdAAAAABAH&opi=89978449) [LinkedIn](https://www.linkedin.com/in/nazareno-faillace-mullen/)  !
+If you would like to know more about my background, please check my ![linkedin](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png){width=15px height=15px} [LinkedIn](https://www.linkedin.com/in/nazareno-faillace-mullen/)  !
 
 ---
 <!--
