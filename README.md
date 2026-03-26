@@ -31,8 +31,6 @@ In the meantime, I would like to share the following projects that reflect some 
 
 Implementation of the algorithm designed by E. Choi y D.-W. Tcha (2007) in "A column generation approach to the heterogeneous fleet vehicle routing problem" [(doi)](https://doi.org/10.1016/j.cor.2005.08.002). This is the final assignment for a post-graduate course that was part of my PhD. program., so the code is docummented in Spanish. 
 
----
-
 #### [SP3TP](https://github.com/nz-fm/SP3TP)
 
 An algorithm I developed to find shortest paths with turn penalties and forbidden paths of three vertices. It is part of our work with D'Aloisio C. and Duran G. in “A solution approach to districting modification and route optimization in waste collection” (2025) [Link to open article](https://www.sciencedirect.com/science/article/pii/S1877050925036427). 
