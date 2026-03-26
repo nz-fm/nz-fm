@@ -1,6 +1,6 @@
 # Hi, I'm Nazareno! 👋
 
-I am a recent PhD in Mathematics specializing in **Operations Research**, with a focus on **mathematical optimization, integer programming, and heuristic methods** combined with strong foundations of **Data Science**. During my undergraduate years I have picked up the interest in programming. Since then, I have been driven by a strong passion for developing my knowledge in the intersection of math and computer science.
+I am a recent PhD in Mathematics specializing in **Operations Research**, with a focus on **mathematical optimization, integer programming, and heuristic methods** combined with strong foundations of **Data Science**. During my undergraduate years I picked up the interest in programming. Since then, I have been driven by a strong passion for developing my knowledge in the intersection of math and computer science.
 
 I am currently transitioning from academia to industry, where I aim to apply my experience in optimization techniques and data science to real-world decision-making problems such as logistics, scheduling, and resource allocation.
 
