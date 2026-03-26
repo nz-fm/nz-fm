@@ -17,7 +17,7 @@ If you would like to know more about my background, please check my [LinkedIn](h
 
 ---
 -->
-### 🔒 Note on Research Code <small> (why so few repos?!) </small>
+## 🔒 Note on Research Code <small> (why so few repos?!) </small>
 
 Most of the code developed during my PhD. research cannot be publicly shared due to confidentiality constraints. However, I am working on releasing public versions where no sensitive information is shown!
 
@@ -25,7 +25,7 @@ In the meantime, I would like to share the following projects that reflect some 
 
 
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 #### [CG_Heteregeneous_VRP](https://github.com/nz-fm/CG_Heteregeneous_VRP)
 
@@ -35,7 +35,6 @@ In the meantime, I would like to share the following projects that reflect some 
 
 * An algorithm I developed to find shortest paths with turn penalties and forbidden paths of three vertices. It is part of our work with D'Aloisio C. and Duran G. in “A solution approach to districting modification and route optimization in waste collection” (2025) [Link to open article](https://www.sciencedirect.com/science/article/pii/S1877050925036427). 
 
----
 <!--
 ## 🎯 Interests
 
@@ -48,11 +47,10 @@ I am particularly interested in roles involving:
 
 ---
 -->
-### 📫 Contact
+## 📫 Contact
 
 * [LinkedIn](https://www.linkedin.com/in/nazareno-faillace-mullen/)
 
----
 
 
 <!--
