@@ -1,8 +1,8 @@
 # Hi, I'm Nazareno! 👋
 
-I am a recent PhD in Mathematics specializing in **Operations Research**, with a focus on **mathematical optimization, integer programming, and heuristic methods** combined with strong foundations of **Data Science**. During my undergraduate years I picked up the interest in programming. Since then, I have been driven by a strong passion for developing my knowledge in the intersection of math and computer science.
+I'm a PhD in Mathematics specializing in **Operations Research**, with a focus on **mathematical optimization, integer programming, and heuristic methods** combined with strong foundations of **Data Science**. During my undergraduate years I picked up the interest in programming. Since then, I have been driven by a strong passion for developing my knowledge in the intersection of math and computer science.
 
-I am currently transitioning from academia to industry, where I aim to apply my experience in optimization techniques and data science to real-world decision-making problems such as logistics, scheduling, and resource allocation.
+I'm currently transitioning from academia to industry, where I aim to apply my experience in optimization techniques and data science to real-world decision-making problems such as logistics, scheduling, and resource allocation.
 
 If you would like to know more about my background, please check my [LinkedIn](https://www.linkedin.com/in/nazareno-faillace-mullen/) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15" /> !
 
@@ -17,17 +17,17 @@ If you would like to know more about my background, please check my [LinkedIn](h
 
 ---
 -->
-## 🔒 Note on Research Code <small> (why so few repos?!) </small>
+## 📖 Publications
 
-Most of the code developed during my PhD. research cannot be publicly shared due to confidentiality constraints. However, I am working on releasing public versions where no sensitive information is shown!
+* _A solution approach to districting modification and route optimization in waste collection_ (2025) Proceedings of the XIII Latin American Algorithms, Graphs, and Optimization Symposium (LAGOS 2025). Procedia Computer Science 273, 169--176. Co-authors: D'Aloisio C. and Durán G. Open-access article available [here](https://www.sciencedirect.com/science/article/pii/S1877050925036427).
+* _An application of mathematical programming to a real case of the unrelated parallel machine problem_ (2024) Annals of Operations Research. Co-authors: Durán G., Durán M., and Velásquez J. [DOI](https://doi.org/10.1007/s10479-024-05938-1)
+* _Developing Optimization Tools for Municipal Solid Waste Collection in the Argentine City of Berazategui_ (2023) INFORMS Journal on Applied Analytics 53(6):451--464. Co-authors: Bertero F., Cerdeiro M. and Durán G. [DOI](https://doi.org/10.1287/inte.2022.0042)
 
-In the meantime, I would like to share the following projects that reflect some of my implementation skills.
-
-
+If you would like to know more about the implementation of the solution approaches proposed in those publications, drop me a line here in Github or through LinkedIn!
 
 ## 🚀 Featured Projects
 
-#### [CG_Heteregeneous_VRP](https://github.com/nz-fm/CG_Heteregeneous_VRP)
+#### [CG_Heterogeneous_VRP](https://github.com/nz-fm/CG_Heterogeneous_VRP)
 
 * Implementation of the algorithm designed by E. Choi y D.-W. Tcha (2007) in "A column generation approach to the heterogeneous fleet vehicle routing problem" [(doi)](https://doi.org/10.1016/j.cor.2005.08.002). This is the final assignment for a post-graduate course that was part of my PhD. program., so the code is docummented in Spanish. 
 
